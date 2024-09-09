@@ -1,0 +1,1117 @@
+2024-09-05 17:36:16,940 - YoloStreamApp - INFO - Application started
+2024-09-05 17:38:07,345 - YoloStreamApp - INFO - Application started
+2024-09-05 17:38:18,035 - YoloStreamApp - INFO - Application started
+2024-09-05 17:38:30,340 - YoloStreamApp - INFO - Application started
+2024-09-05 17:48:50,305 - YoloStreamApp - INFO - Application started
+2024-09-05 17:52:16,438 - YoloStreamApp - INFO - Application started
+2024-09-05 17:52:50,925 - YoloStreamApp - INFO - Application started
+2024-09-05 18:05:13,882 - YoloStreamApp - INFO - Starting camera service with devices: 2
+2024-09-05 18:06:18,587 - YoloStreamApp - INFO - Starting camera service with devices: 2
+2024-09-05 18:07:15,415 - YoloStreamApp - INFO - Starting camera service with devices: 2
+2024-09-05 18:07:15,417 - YoloStreamApp - INFO - Starting camera service with devices: dict_items([('dss1', {'device_type': 'dss', 'cam1': '192.168.11.12', 'cam2': '192.168.11.12'}), ('dss2', {'device_type': 'dss', 'cam1': '192.168.11.12', 'cam2': '192.168.11.12'})])
+2024-09-05 18:16:51,387 - YoloStreamApp - INFO - Starting camera service with devices: 2
+2024-09-05 18:16:51,387 - YoloStreamApp - INFO - Starting camera service with device: dss1
+2024-09-05 18:16:51,387 - YoloStreamApp - INFO - Starting camera service with device: dss2
+2024-09-05 18:20:15,339 - YoloStreamApp - INFO - Starting camera service with devices: 2
+2024-09-05 18:20:15,340 - YoloStreamApp - INFO - Starting camera service with device: dss1
+2024-09-05 18:20:15,340 - YoloStreamApp - INFO - Starting camera service with device: dss2
+2024-09-05 18:20:38,158 - YoloStreamApp - INFO - Starting camera service with devices: 2
+2024-09-05 18:20:38,158 - YoloStreamApp - INFO - Starting camera service with device: dss1
+2024-09-05 18:20:38,158 - YoloStreamApp - INFO - Starting camera service with device: dss2
+2024-09-05 18:21:06,728 - YoloStreamApp - INFO - Starting camera service with devices: 2
+2024-09-05 18:21:06,728 - YoloStreamApp - INFO - Starting camera service with device: dss1
+2024-09-05 18:21:06,729 - YoloStreamApp - INFO - Starting camera service with device: dss2
+2024-09-05 18:21:54,820 - YoloStreamApp - INFO - Starting camera service with devices: 1
+2024-09-05 18:21:54,820 - YoloStreamApp - INFO - Starting camera service with device: dss1
+2024-09-05 18:23:06,665 - YoloStreamApp - INFO - Starting camera service with devices: 1
+2024-09-05 18:23:06,665 - YoloStreamApp - INFO - Starting camera service with device: dss1
+2024-09-05 18:23:19,847 - YoloStreamApp - INFO - Starting camera service with devices: 1
+2024-09-05 18:23:19,847 - YoloStreamApp - INFO - Starting camera service with device: dss1
+2024-09-05 18:24:10,210 - YoloStreamApp - INFO - Starting camera service with devices: 1
+2024-09-05 18:24:10,210 - YoloStreamApp - INFO - Starting camera service with device: dss1
+2024-09-05 18:24:10,211 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 18:26:26,330 - YoloStreamApp - INFO - Starting camera service with devices: 1
+2024-09-05 18:26:26,330 - YoloStreamApp - INFO - Starting camera service with device: dss1
+2024-09-05 18:26:26,330 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 18:26:30,583 - YoloStreamApp - INFO - Starting camera service with devices: 1
+2024-09-05 18:26:30,583 - YoloStreamApp - INFO - Starting camera service with device: dss1
+2024-09-05 18:26:44,321 - YoloStreamApp - INFO - Starting camera service with devices: 1
+2024-09-05 18:26:44,322 - YoloStreamApp - INFO - Starting camera service with device: dss1
+2024-09-05 18:26:58,202 - YoloStreamApp - INFO - Starting camera service with devices: 1
+2024-09-05 18:26:58,202 - YoloStreamApp - INFO - Starting camera service with device: dss1
+2024-09-05 18:27:14,338 - YoloStreamApp - INFO - Starting camera service with devices: 1
+2024-09-05 18:27:14,338 - YoloStreamApp - INFO - Starting camera service with device: dss1
+2024-09-05 18:28:39,637 - YoloStreamApp - INFO - Starting camera service with devices: 1
+2024-09-05 18:28:39,638 - YoloStreamApp - INFO - Starting camera service with device: dss1
+2024-09-05 18:30:46,225 - YoloStreamApp - INFO - Starting camera service with devices: 1
+2024-09-05 18:30:46,225 - YoloStreamApp - INFO - Starting camera service with device: dss1
+2024-09-05 18:30:46,226 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 18:30:46,226 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 18:30:46,498 - YoloStreamApp - INFO - Camera 2 disconnected. Reconnecting...
+2024-09-05 18:30:47,549 - YoloStreamApp - INFO - Camera 2 disconnected. Reconnecting...
+2024-09-05 18:30:48,600 - YoloStreamApp - INFO - Camera 2 disconnected. Reconnecting...
+2024-09-05 18:30:49,666 - YoloStreamApp - INFO - Camera 2 disconnected. Reconnecting...
+2024-09-05 18:30:50,729 - YoloStreamApp - INFO - Camera 2 disconnected. Reconnecting...
+2024-09-05 18:30:51,791 - YoloStreamApp - INFO - Camera 2 disconnected. Reconnecting...
+2024-09-05 18:30:52,847 - YoloStreamApp - INFO - Camera 2 disconnected. Reconnecting...
+2024-09-05 18:30:53,907 - YoloStreamApp - INFO - Camera 2 disconnected. Reconnecting...
+2024-09-05 18:30:54,967 - YoloStreamApp - INFO - Camera 2 disconnected. Reconnecting...
+2024-09-05 18:30:56,035 - YoloStreamApp - INFO - Camera 2 disconnected. Reconnecting...
+2024-09-05 18:30:57,093 - YoloStreamApp - INFO - Camera 2 disconnected. Reconnecting...
+2024-09-05 18:30:58,155 - YoloStreamApp - INFO - Camera 2 disconnected. Reconnecting...
+2024-09-05 18:30:59,215 - YoloStreamApp - INFO - Camera 2 disconnected. Reconnecting...
+2024-09-05 18:31:05,682 - YoloStreamApp - INFO - Starting camera service with devices: 1
+2024-09-05 18:31:05,682 - YoloStreamApp - INFO - Starting camera service with device: dss1
+2024-09-05 18:31:05,683 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 18:31:05,683 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 18:36:38,975 - YoloStreamApp - INFO - Starting camera service with devices: 1
+2024-09-05 18:36:38,976 - YoloStreamApp - INFO - Starting camera service with device: dss1
+2024-09-05 18:36:38,977 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 18:36:38,977 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 18:36:54,564 - YoloStreamApp - INFO - Starting camera service with devices: 1
+2024-09-05 18:36:54,661 - YoloStreamApp - INFO - Starting camera service with device: dss1
+2024-09-05 18:36:54,661 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 18:36:54,661 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 18:39:54,065 - YoloStreamApp - INFO - Starting camera service with devices: 1
+2024-09-05 18:39:54,066 - YoloStreamApp - INFO - Starting camera service with device: dss1
+2024-09-05 18:39:54,170 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 18:39:54,170 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 18:40:32,653 - YoloStreamApp - INFO - Starting camera service with devices: 1
+2024-09-05 18:40:32,736 - YoloStreamApp - INFO - Starting camera service with device: dss1
+2024-09-05 18:40:32,737 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 18:40:32,737 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 19:05:23,424 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 19:05:23,424 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 19:06:29,716 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 19:06:29,716 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 19:07:44,608 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 19:07:44,608 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 19:08:34,728 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 19:08:34,729 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 20:56:10,353 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 20:56:10,354 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 20:58:58,122 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 20:58:58,122 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:01:46,055 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:01:46,055 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:02:00,910 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:02:00,911 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:04:58,962 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:04:58,963 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:05:34,716 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:05:34,716 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:12:55,484 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:12:55,484 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:16:50,457 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:16:50,457 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:18:42,513 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:18:42,513 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:20:25,902 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:20:25,902 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:24:53,676 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:24:53,677 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:26:56,292 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:26:56,293 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:28:46,006 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:28:46,007 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:38:13,231 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:38:13,232 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:47:27,714 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 21:47:27,714 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:12:58,220 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:12:58,221 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:15:21,009 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:15:21,010 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:18:53,414 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:18:53,414 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:26:03,480 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:26:03,480 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:26:03,505 - YoloStreamApp - INFO - CUDA available
+2024-09-05 23:26:25,596 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:26:25,597 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:26:25,610 - YoloStreamApp - INFO - CUDA available
+2024-09-05 23:26:25,692 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:26:25,693 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:26:59,047 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:26:59,048 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:26:59,138 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:26:59,139 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:27:32,736 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:27:32,736 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:27:32,738 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:27:32,738 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:35:21,966 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:35:21,967 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:35:21,968 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:35:21,968 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:35:44,433 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:35:44,433 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:35:44,436 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:35:44,436 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:35:53,656 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:35:53,657 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:35:53,657 - YoloStreamApp - INFO - Setting up detection view for device: dss1 {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:35:53,666 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:35:53,666 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:36:10,237 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:36:10,238 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:36:10,238 - YoloStreamApp - INFO - Setting up detection view for device: dss1 {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:36:10,240 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:36:10,315 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:36:59,180 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:36:59,180 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:36:59,183 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:36:59,183 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:37:18,916 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:37:18,916 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:37:18,917 - YoloStreamApp - INFO - Setting up detection view for device: dss1 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:37:18,920 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:37:18,920 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:38:20,701 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:38:20,701 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:38:20,701 - YoloStreamApp - INFO - Setting up detection view for device: dss1 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:38:20,704 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:38:20,704 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:38:47,710 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:38:47,710 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:38:47,711 - YoloStreamApp - INFO - Setting up detection view for device: dss1 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:38:48,143 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:38:48,145 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:38:54,353 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:38:54,354 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:38:54,354 - YoloStreamApp - INFO - Setting up detection view for device: dss1 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:38:54,651 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:38:54,734 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:41:43,403 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:41:43,404 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:41:43,405 - YoloStreamApp - INFO - Setting up detection view for device: dss1 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:41:43,406 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:41:43,406 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:41:53,344 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:41:53,344 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:41:53,345 - YoloStreamApp - INFO - Setting up detection view for device: dss1 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:41:53,346 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:41:53,346 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:43:44,185 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:43:44,186 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:43:44,186 - YoloStreamApp - INFO - Setting up detection view for device: dss1 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:43:44,188 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:43:44,614 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:44:09,623 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:44:09,626 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:44:11,604 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:44:11,605 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:44:12,752 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:44:13,810 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:44:14,899 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:44:15,995 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:44:17,044 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:44:18,110 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:44:19,156 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:44:20,217 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:44:21,264 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:44:22,316 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:44:24,347 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:44:24,348 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:47:07,506 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:47:07,506 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:47:07,507 - YoloStreamApp - INFO - Setting up detection view for device: dss1 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:47:07,895 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:47:07,895 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:47:50,198 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:47:50,198 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:47:50,199 - YoloStreamApp - INFO - Setting up detection view for device: dss1 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:47:50,582 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:47:50,582 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:48:28,255 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:48:28,256 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:48:28,256 - YoloStreamApp - INFO - Setting up detection view for device: dss1 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:48:28,675 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:48:28,676 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:50:04,230 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:50:04,230 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:50:04,231 - YoloStreamApp - INFO - Setting up detection view for device: dss1 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:50:04,613 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:50:04,619 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:50:35,323 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:50:35,324 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:50:35,324 - YoloStreamApp - INFO - Setting up detection view for device: dss1 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:50:35,734 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:50:35,741 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:51:03,721 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:51:03,721 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:51:03,722 - YoloStreamApp - INFO - Setting up detection view for device: dss1 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:51:04,024 - YoloStreamApp - INFO - Setting up detection view for device: dss2 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:51:04,101 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:51:04,107 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:51:04,113 - YoloStreamApp - INFO - dss device found: dss2
+2024-09-05 23:51:04,118 - YoloStreamApp - INFO - dss device found: dss2
+2024-09-05 23:51:07,095 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:51:07,097 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:51:07,108 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:51:07,110 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:51:09,537 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:51:09,541 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:51:09,541 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:51:09,543 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:51:12,241 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:51:12,244 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:51:12,246 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:51:12,248 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:51:14,875 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:51:14,878 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:51:14,880 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:51:14,881 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:51:17,533 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:51:17,535 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:51:17,537 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:51:17,538 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:51:20,195 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:51:20,199 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:51:20,201 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:51:20,201 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:51:22,890 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:51:22,892 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:51:22,894 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:51:22,896 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:51:25,518 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:51:25,522 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:51:25,523 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:51:25,525 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:51:28,381 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:51:28,383 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:51:28,385 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:51:28,386 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:51:31,287 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:51:31,290 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:51:31,293 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:51:31,293 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:51:34,272 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:51:34,273 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:51:34,275 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:51:34,277 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:51:37,381 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:51:37,381 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:51:37,383 - YoloStreamApp - INFO - Setting up detection view for device: dss1 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:51:37,682 - YoloStreamApp - INFO - Setting up detection view for device: dss2 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:51:37,682 - YoloStreamApp - INFO - Setting up detection view for device: dss3 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:51:37,774 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:51:37,781 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:51:37,786 - YoloStreamApp - INFO - dss device found: dss2
+2024-09-05 23:51:37,791 - YoloStreamApp - INFO - dss device found: dss2
+2024-09-05 23:51:37,797 - YoloStreamApp - INFO - dss device found: dss3
+2024-09-05 23:51:37,803 - YoloStreamApp - INFO - dss device found: dss3
+2024-09-05 23:51:42,391 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:51:42,394 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:51:42,404 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:51:42,407 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:51:42,417 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:51:42,420 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:51:42,421 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:51:42,423 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:51:46,628 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:51:46,632 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:51:46,642 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:51:46,646 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:51:46,648 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:51:46,648 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:51:46,650 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:51:46,653 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:51:51,190 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:51:51,193 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:51:51,199 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:51:51,204 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:51:51,204 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:51:51,207 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:51:51,208 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:51:51,210 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:51:55,946 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:51:55,949 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:51:55,961 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:51:55,965 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:51:55,966 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:51:55,971 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:51:55,971 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:51:55,974 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:00,511 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:00,517 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:00,525 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:00,530 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:00,531 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:00,534 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:00,534 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:00,536 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:05,217 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:05,222 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:05,233 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:05,237 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:05,249 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:05,253 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:05,253 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:05,254 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:09,934 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:09,941 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:09,949 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:09,952 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:09,954 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:09,956 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:09,958 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:09,962 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:14,867 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:14,869 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:14,876 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:14,880 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:14,880 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:14,884 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:14,886 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:14,887 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:19,686 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:19,688 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:19,701 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:19,703 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:19,705 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:19,708 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:19,711 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:19,712 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:24,519 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:24,524 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:24,534 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:24,538 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:24,540 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:24,540 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:24,542 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:24,543 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:29,332 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:29,334 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:29,341 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:29,343 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:29,346 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:29,349 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:29,350 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:29,352 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:34,319 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:34,322 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:34,328 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:34,331 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:34,332 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:34,336 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:34,340 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:34,340 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:39,292 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:39,297 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:39,307 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:39,312 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:39,312 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:39,315 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:39,317 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:39,317 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:43,896 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:43,900 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:43,900 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:43,905 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:43,905 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:43,909 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:43,913 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:43,913 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:48,948 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:48,952 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:48,957 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:48,960 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:48,962 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:48,963 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:48,966 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:48,968 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:54,010 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:54,013 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:54,014 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:54,016 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:54,019 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:54,022 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:54,024 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:54,027 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:59,080 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:59,083 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:59,086 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:59,089 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:52:59,110 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:52:59,113 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:52:59,114 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:52:59,116 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:53:04,176 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:53:04,179 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:53:04,184 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:53:04,192 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:53:04,193 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:53:04,196 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:53:04,198 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:53:04,200 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:53:09,537 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:53:09,539 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:53:09,547 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:53:09,550 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:53:09,552 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:53:09,555 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:53:09,555 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:53:09,557 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:53:14,842 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:53:14,848 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:53:14,855 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:53:14,859 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:53:14,861 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:53:14,863 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:53:14,863 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:53:14,866 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:53:20,131 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:53:20,133 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:53:20,145 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:53:20,147 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:53:20,150 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:53:20,153 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:53:20,153 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:53:20,155 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:53:25,451 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:53:25,455 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:53:25,465 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:53:25,469 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:53:25,471 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:53:25,473 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:53:25,473 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:53:25,475 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:53:31,032 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:53:31,035 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:53:31,035 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:53:31,042 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:53:31,049 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:53:31,051 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:53:31,054 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:53:31,056 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:53:36,606 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:53:36,613 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:53:36,617 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:53:36,619 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:53:36,628 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:53:36,631 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:53:36,639 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:53:36,642 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:53:42,048 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:53:42,054 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:53:42,056 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:53:42,060 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:53:42,062 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:53:42,065 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:53:42,065 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:53:42,067 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:53:47,425 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:53:47,427 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:53:47,441 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:53:47,445 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:53:47,445 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:53:47,449 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:53:47,449 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:53:47,452 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:53:52,740 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:53:52,743 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:53:52,744 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:53:52,745 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:53:52,775 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:53:52,778 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:53:52,779 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:53:52,780 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:53:58,109 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:53:58,115 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:53:58,125 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:53:58,128 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:53:58,129 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:53:58,133 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:53:58,133 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:53:58,135 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:54:03,353 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:54:03,358 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:54:03,367 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:54:03,371 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:54:03,373 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:54:03,375 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:54:03,377 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:54:03,379 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:54:08,888 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:54:08,892 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:54:08,900 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:54:08,902 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:54:08,904 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:54:08,907 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:54:08,907 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:54:08,909 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:54:14,248 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:54:14,252 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:54:14,262 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:54:14,265 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:54:14,266 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:54:14,270 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:54:14,270 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:54:14,273 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:54:19,917 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:54:19,927 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:54:19,932 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:54:19,936 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:54:19,937 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:54:19,941 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:54:19,942 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:54:19,944 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:54:25,703 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:54:25,705 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:54:25,718 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:54:25,722 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:54:25,724 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:54:25,726 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:54:25,726 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:54:25,729 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:54:31,582 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:54:31,587 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:54:31,596 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:54:31,600 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:54:31,600 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:54:31,604 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:54:31,605 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:54:31,607 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:54:37,408 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:54:37,412 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:54:37,412 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:54:37,415 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:54:37,416 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:54:37,420 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:54:37,422 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:54:37,424 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:54:43,330 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:54:43,332 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:54:43,345 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:54:43,348 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:54:43,350 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:54:43,351 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:54:43,355 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:54:43,357 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:54:52,413 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:54:52,413 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:54:52,414 - YoloStreamApp - INFO - Setting up detection view for device: dss1 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:54:52,743 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:56:29,539 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:56:29,539 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:56:29,542 - YoloStreamApp - INFO - Setting up detection view for device: dss1 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:56:29,865 - YoloStreamApp - INFO - Setting up detection view for device: dss2 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:56:29,865 - YoloStreamApp - INFO - Setting up detection view for device: dss3 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:56:29,991 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:56:29,997 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:56:30,002 - YoloStreamApp - INFO - dss device found: dss2
+2024-09-05 23:56:30,009 - YoloStreamApp - INFO - dss device found: dss2
+2024-09-05 23:56:30,014 - YoloStreamApp - INFO - dss device found: dss3
+2024-09-05 23:56:30,019 - YoloStreamApp - INFO - dss device found: dss3
+2024-09-05 23:56:34,598 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:56:34,602 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:56:34,602 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:56:34,605 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:56:34,615 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:56:34,618 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:56:34,619 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:56:34,622 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:56:38,749 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:56:38,751 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:56:38,765 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:56:38,766 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:56:38,769 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:56:38,772 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:56:38,773 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:56:38,776 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:56:42,662 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:56:42,668 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:56:42,676 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:56:42,679 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:56:42,681 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:56:42,684 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:56:42,685 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:56:42,687 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:56:46,793 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:56:46,796 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:56:46,810 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:56:46,812 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:56:46,814 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:56:46,817 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:56:46,819 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:56:46,822 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:56:51,197 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:56:51,204 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:56:51,212 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:56:51,215 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:56:51,216 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:56:51,217 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:56:51,220 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:56:51,221 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:56:53,226 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:56:53,226 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:56:53,227 - YoloStreamApp - INFO - Setting up detection view for device: dss1 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:56:53,534 - YoloStreamApp - INFO - Setting up detection view for device: dss2 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:56:53,535 - YoloStreamApp - INFO - Setting up detection view for device: dss3 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:56:53,535 - YoloStreamApp - INFO - Setting up detection view for device: dss4 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:56:53,536 - YoloStreamApp - INFO - Setting up detection view for device: dss5 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:56:53,666 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:56:53,673 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:56:53,679 - YoloStreamApp - INFO - dss device found: dss2
+2024-09-05 23:56:53,685 - YoloStreamApp - INFO - dss device found: dss2
+2024-09-05 23:56:53,690 - YoloStreamApp - INFO - dss device found: dss3
+2024-09-05 23:56:53,695 - YoloStreamApp - INFO - dss device found: dss3
+2024-09-05 23:56:53,701 - YoloStreamApp - INFO - dss device found: dss4
+2024-09-05 23:56:53,783 - YoloStreamApp - INFO - dss device found: dss5
+2024-09-05 23:56:53,783 - YoloStreamApp - INFO - dss device found: dss4
+2024-09-05 23:56:53,801 - YoloStreamApp - INFO - dss device found: dss5
+2024-09-05 23:57:01,312 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:57:01,317 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:57:01,317 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:57:01,322 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:57:01,322 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:57:01,324 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:57:01,325 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:57:01,328 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:57:01,328 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:57:01,332 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:57:01,336 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:57:01,337 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:57:01,338 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:57:01,339 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:57:01,340 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:57:01,346 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:57:08,791 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:57:08,793 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:57:08,797 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:57:08,800 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:57:08,877 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:57:08,881 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:57:08,881 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:57:08,885 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:57:08,886 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:57:08,886 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:57:08,892 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:57:08,893 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:57:08,894 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:57:08,896 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:57:08,901 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:57:08,902 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:57:16,597 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:57:16,599 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:57:16,606 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:57:16,609 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:57:16,613 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:57:16,614 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:57:16,638 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:57:16,642 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:57:16,644 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:57:16,645 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:57:16,647 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:57:16,651 - YoloStreamApp - ERROR - Error reading frame from camera 1
+2024-09-05 23:57:16,652 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:57:16,653 - YoloStreamApp - INFO - Camera 1 disconnected. Reconnecting...
+2024-09-05 23:57:16,656 - YoloStreamApp - ERROR - Error reading frame from camera 0
+2024-09-05 23:57:16,662 - YoloStreamApp - INFO - Camera 0 disconnected. Reconnecting...
+2024-09-05 23:57:23,073 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:57:23,073 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:57:23,074 - YoloStreamApp - INFO - Setting up detection view for device: dss1 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-05 23:57:23,467 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:57:23,473 - YoloStreamApp - INFO - dss device found: dss1
+2024-09-05 23:57:43,986 - YoloStreamApp - INFO - Camera service started
+2024-09-05 23:57:43,986 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-05 23:57:43,987 - YoloStreamApp - INFO - Setting up detection view for device: dss1 | {'device_type': 'dss', 'cams': [0, 1]}
+2024-09-06 00:01:50,328 - YoloStreamApp - INFO - Camera service started
+2024-09-06 00:01:50,328 - YoloStreamApp - INFO - Loading YOLO model...
+2024-09-09 14:29:23,872 - CameraService_dss_dss1_0 - INFO - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 14:29:23,975 - CameraService_dss_dss1_1 - INFO - Capturing camera stream from rtsp://dss0.local:8554/cam2
+2024-09-09 14:29:24,076 - CameraService_dss_dss2_0 - INFO - Capturing camera stream from rtsp://dss0.local:8554/cam2
+2024-09-09 14:29:24,179 - CameraService_dss_dss2_1 - INFO - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 14:29:24,279 - CameraService_dss_dss3_0 - INFO - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 14:29:24,381 - CameraService_dss_dss3_1 - INFO - Capturing camera stream from rtsp://dss0.local:8554/cam2
+2024-09-09 14:29:24,553 - CameraService_dss_dss4_0 - INFO - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 14:29:24,655 - CameraService_dss_dss4_1 - INFO - Capturing camera stream from rtsp://dss0.local:8554/cam2
+2024-09-09 14:29:24,762 - CameraService_tr_tr1_0 - INFO - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 14:40:38,654 - CameraService_dss_dss3_0 - ERROR - Error reading frame from camera rtsp://dss0.local:8554/cam1
+2024-09-09 14:46:20,363 - CameraService_dss_dss3_1 - ERROR - Error reading frame from camera rtsp://dss0.local:8554/cam2
+2024-09-09 14:47:07,837 - CameraService_dss_dss2_1 - ERROR - Error reading frame from camera rtsp://dss0.local:8554/cam1
+2024-09-09 14:47:36,723 - CameraService_dss_dss2_0 - ERROR - Error reading frame from camera rtsp://dss0.local:8554/cam2
+2024-09-09 14:48:45,089 - CameraService_dss_dss1_1 - ERROR - Error reading frame from camera rtsp://dss0.local:8554/cam2
+2024-09-09 14:48:51,125 - CameraService_tr_tr1_0 - ERROR - Error reading frame from camera rtsp://dss0.local:8554/cam1
+2024-09-09 14:49:31,773 - CameraService_dss_dss4_1 - ERROR - Error reading frame from camera rtsp://dss0.local:8554/cam2
+2024-09-09 14:50:54,708 - CameraService_dss_dss4_0 - ERROR - Error reading frame from camera rtsp://dss0.local:8554/cam1
+2024-09-09 14:50:55,884 - CameraService_dss_dss1_0 - ERROR - Error reading frame from camera rtsp://dss0.local:8554/cam1
+2024-09-09 14:51:42,411 - CameraService_dss_dss3_0 - ERROR - Error reading frame from camera rtsp://dss0.local:8554/cam1
+2024-09-09 14:58:06,170 - CameraService_tr_tr1_0 - ERROR - Error reading frame from camera rtsp://dss0.local:8554/cam1
+2024-09-09 15:01:17,397 - CameraService_dss_dss3_0 - ERROR - Error reading frame from camera rtsp://dss0.local:8554/cam1
+2024-09-09 15:01:56,060 - CameraService_dss_dss2_1 - ERROR - Error reading frame from camera rtsp://dss0.local:8554/cam1
+2024-09-09 15:03:06,547 - CameraService_dss_dss3_1 - ERROR - Error reading frame from camera rtsp://dss0.local:8554/cam2
+2024-09-09 15:04:09,361 - CameraService_dss_dss2_0 - ERROR - Error reading frame from camera rtsp://dss0.local:8554/cam2
+2024-09-09 15:05:05,817 - CameraService_dss_dss4_0 - ERROR - Error reading frame from camera rtsp://dss0.local:8554/cam1
+2024-09-09 15:05:17,094 - CameraService_dss_dss4_1 - ERROR - Error reading frame from camera rtsp://dss0.local:8554/cam2
+2024-09-09 15:05:24,763 - CameraService_dss_dss1_1 - ERROR - Error reading frame from camera rtsp://dss0.local:8554/cam2
+2024-09-09 15:10:53,731 - CameraService_tr_tr1_0 - ERROR - Error reading frame from camera rtsp://dss0.local:8554/cam1
+2024-09-09 15:12:46,198 - DetectionView-tr - INFO - demo enabled - tr1
+2024-09-09 15:12:46,201 - CameraService_tr_tr1_0 - INFO - Demo signal received: device_type='tr' target='tr1'
+2024-09-09 15:12:50,061 - CameraService_tr_tr1_0 - INFO - Detection start condition met: 14 active objects detected
+2024-09-09 15:12:50,062 - CameraService_tr_tr1_0 - INFO - [tr1][0]Detection started at 1725862370.0500278
+2024-09-09 15:12:50,063 - CameraService_tr_tr1_0 - INFO - Executing run_ext for the first time in this detection period
+2024-09-09 15:12:50,063 - CameraService_tr_tr1_0 - INFO - Running external detection logic
+2024-09-09 15:12:55,085 - CameraService_tr_tr1_0 - INFO - Detection ended: Maximum duration of 5.0 seconds reached
+2024-09-09 15:12:55,086 - CameraService_tr_tr1_0 - INFO - Detection ended in 5.0 seconds.
+2024-09-09 15:13:00,129 - CameraService_tr_tr1_0 - INFO - Detection start condition met: 10 active objects detected
+2024-09-09 15:13:00,131 - CameraService_tr_tr1_0 - INFO - [tr1][0]Detection started at 1725862380.1163456
+2024-09-09 15:13:00,131 - CameraService_tr_tr1_0 - INFO - Executing run_ext for the first time in this detection period
+2024-09-09 15:13:00,132 - CameraService_tr_tr1_0 - INFO - Running external detection logic
+2024-09-09 15:13:03,440 - DetectionView-dss - INFO - demo enabled - dss2
+2024-09-09 15:13:03,441 - CameraService_dss_dss2_0 - INFO - Demo signal received: device_type='dss' target='dss2'
+2024-09-09 15:13:03,481 - CameraService_dss_dss2_1 - INFO - Demo signal received: device_type='dss' target='dss2'
+2024-09-09 15:13:03,620 - CameraService_dss_dss2_0 - INFO - Detection start condition met: 5 active objects detected
+2024-09-09 15:13:03,621 - CameraService_dss_dss2_0 - INFO - [dss2][0]Detection started at 1725862383.6166835
+2024-09-09 15:13:03,622 - CameraService_dss_dss2_0 - INFO - Executing run_ext for the first time in this detection period
+2024-09-09 15:13:03,623 - CameraService_dss_dss2_0 - INFO - Running external detection logic
+2024-09-09 15:13:03,667 - CameraService_dss_dss2_1 - INFO - Detection start condition met: 4 active objects detected
+2024-09-09 15:13:03,669 - CameraService_dss_dss2_1 - INFO - [dss2][1]Detection started at 1725862383.662712
+2024-09-09 15:13:03,669 - CameraService_dss_dss2_1 - INFO - Executing run_ext for the first time in this detection period
+2024-09-09 15:13:03,669 - CameraService_dss_dss2_1 - INFO - Running external detection logic
+2024-09-09 15:13:05,208 - CameraService_tr_tr1_0 - INFO - Detection ended: Maximum duration of 5.0 seconds reached
+2024-09-09 15:13:05,209 - CameraService_tr_tr1_0 - INFO - Detection ended in 5.1 seconds.
+2024-09-09 15:13:08,642 - CameraService_dss_dss2_0 - INFO - Detection ended: Maximum duration of 5.0 seconds reached
+2024-09-09 15:13:08,643 - CameraService_dss_dss2_0 - INFO - Detection ended in 5.0 seconds.
+2024-09-09 15:13:08,698 - CameraService_tr_tr1_0 - INFO - Demo mode completed
+2024-09-09 15:13:08,767 - CameraService_dss_dss2_1 - INFO - Detection ended: Maximum duration of 5.0 seconds reached
+2024-09-09 15:13:08,768 - CameraService_dss_dss2_1 - INFO - Detection ended in 5.1 seconds.
+2024-09-09 15:13:13,688 - CameraService_dss_dss2_0 - INFO - Detection start condition met: 8 active objects detected
+2024-09-09 15:13:13,689 - CameraService_dss_dss2_0 - INFO - [dss2][0]Detection started at 1725862393.6804035
+2024-09-09 15:13:13,690 - CameraService_dss_dss2_0 - INFO - Executing run_ext for the first time in this detection period
+2024-09-09 15:13:13,690 - CameraService_dss_dss2_0 - INFO - Running external detection logic
+2024-09-09 15:13:13,846 - CameraService_dss_dss2_1 - INFO - Detection start condition met: 9 active objects detected
+2024-09-09 15:13:13,847 - CameraService_dss_dss2_1 - INFO - [dss2][1]Detection started at 1725862393.8339229
+2024-09-09 15:13:13,848 - CameraService_dss_dss2_1 - INFO - Executing run_ext for the first time in this detection period
+2024-09-09 15:13:13,848 - CameraService_dss_dss2_1 - INFO - Running external detection logic
+2024-09-09 15:13:15,880 - DetectionView-tr - INFO - demo enabled - tr1
+2024-09-09 15:13:15,881 - CameraService_tr_tr1_0 - INFO - Demo signal received: device_type='tr' target='tr1'
+2024-09-09 15:13:16,037 - CameraService_tr_tr1_0 - INFO - Detection start condition met: 11 active objects detected
+2024-09-09 15:13:16,038 - CameraService_tr_tr1_0 - INFO - [tr1][0]Detection started at 1725862396.0300078
+2024-09-09 15:13:16,039 - CameraService_tr_tr1_0 - INFO - Executing run_ext for the first time in this detection period
+2024-09-09 15:13:16,040 - CameraService_tr_tr1_0 - INFO - Running external detection logic
+2024-09-09 15:13:18,690 - CameraService_dss_dss2_0 - INFO - Detection ended: Maximum duration of 5.0 seconds reached
+2024-09-09 15:13:18,691 - CameraService_dss_dss2_0 - INFO - Detection ended in 5.0 seconds.
+2024-09-09 15:13:18,883 - CameraService_dss_dss2_1 - INFO - Detection ended: Maximum duration of 5.0 seconds reached
+2024-09-09 15:13:18,883 - CameraService_dss_dss2_1 - INFO - Detection ended in 5.0 seconds.
+2024-09-09 15:13:21,094 - CameraService_tr_tr1_0 - INFO - Detection ended: Maximum duration of 5.0 seconds reached
+2024-09-09 15:13:21,096 - CameraService_tr_tr1_0 - INFO - Detection ended in 5.1 seconds.
+2024-09-09 15:13:21,116 - CameraService_dss_dss2_1 - INFO - Demo mode completed
+2024-09-09 15:13:21,235 - CameraService_dss_dss2_0 - INFO - Demo mode completed
+2024-09-09 15:13:26,129 - CameraService_tr_tr1_0 - INFO - Detection start condition met: 11 active objects detected
+2024-09-09 15:13:26,129 - CameraService_tr_tr1_0 - INFO - [tr1][0]Detection started at 1725862406.1191576
+2024-09-09 15:13:26,131 - CameraService_tr_tr1_0 - INFO - Executing run_ext for the first time in this detection period
+2024-09-09 15:13:26,133 - CameraService_tr_tr1_0 - INFO - Running external detection logic
+2024-09-09 15:13:31,225 - CameraService_tr_tr1_0 - INFO - Detection ended: Maximum duration of 5.0 seconds reached
+2024-09-09 15:13:31,226 - CameraService_tr_tr1_0 - INFO - Detection ended in 5.1 seconds.
+2024-09-09 15:13:34,344 - CameraService_tr_tr1_0 - INFO - Demo mode completed
+2024-09-09 15:17:50,625 - CameraService_dss_dss1_0 - DEBUG - Camera service started : dss dss1 0
+2024-09-09 15:17:50,626 - CameraService_dss_dss1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:17:50,641 - CameraService_dss_dss1_0 - DEBUG - [GPU]Loading dss model from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:17:50,757 - CameraService_dss_dss1_1 - DEBUG - Camera service started : dss dss1 1
+2024-09-09 15:17:50,758 - CameraService_dss_dss1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:17:50,758 - CameraService_dss_dss1_1 - DEBUG - loading model inside CameraService
+2024-09-09 15:17:50,758 - CameraService_dss_dss1_1 - DEBUG - [GPU]Loading dss model from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:17:50,862 - CameraService_tr_tr1_0 - DEBUG - Camera service started : tr tr1 0
+2024-09-09 15:17:50,862 - CameraService_dss_dss1_1 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam2
+2024-09-09 15:17:50,862 - CameraService_tr_tr1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:17:50,863 - CameraService_tr_tr1_0 - DEBUG - [GPU]Loading tr model from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\iotr_model.pt
+2024-09-09 15:17:50,987 - CameraService_tr_tr1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:18:03,707 - DetectionView-tr - INFO - demo enabled - tr1
+2024-09-09 15:18:03,708 - CameraService_tr_tr1_0 - INFO - Demo signal received: device_type='tr' target='tr1'
+2024-09-09 15:18:03,758 - CameraService_tr_tr1_0 - INFO - Detection start condition met: 11 active objects detected
+2024-09-09 15:18:03,759 - CameraService_tr_tr1_0 - INFO - [tr1][0]Detection started at 1725862683.7578652
+2024-09-09 15:18:03,760 - CameraService_tr_tr1_0 - INFO - Executing run_ext for the first time in this detection period
+2024-09-09 15:18:03,760 - CameraService_tr_tr1_0 - INFO - Running external detection logic
+2024-09-09 15:18:08,765 - CameraService_tr_tr1_0 - INFO - Detection ended: Maximum duration of 5.0 seconds reached
+2024-09-09 15:18:08,765 - CameraService_tr_tr1_0 - INFO - Detection ended in 5.0 seconds.
+2024-09-09 15:18:13,843 - CameraService_tr_tr1_0 - INFO - Detection start condition met: 12 active objects detected
+2024-09-09 15:18:13,843 - CameraService_tr_tr1_0 - INFO - [tr1][0]Detection started at 1725862693.841433
+2024-09-09 15:18:13,844 - CameraService_tr_tr1_0 - INFO - Executing run_ext for the first time in this detection period
+2024-09-09 15:18:13,845 - CameraService_tr_tr1_0 - INFO - Running external detection logic
+2024-09-09 15:18:15,732 - CameraService_tr_tr1_0 - INFO - Demo mode completed
+2024-09-09 15:18:18,907 - CameraService_tr_tr1_0 - INFO - Detection ended: Maximum duration of 5.0 seconds reached
+2024-09-09 15:18:18,907 - CameraService_tr_tr1_0 - INFO - Detection ended in 5.1 seconds.
+2024-09-09 15:23:37,618 - CameraService_dss_dss1_0 - DEBUG - Camera service started : dss dss1 0
+2024-09-09 15:23:37,618 - CameraService_dss_dss1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:24:22,250 - CameraService_dss_dss1_0 - DEBUG - Camera service started : dss dss1 0
+2024-09-09 15:24:22,250 - CameraService_dss_dss1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:24:22,264 - CameraService_dss_dss1_0 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:24:22,377 - CameraService_dss_dss1_1 - DEBUG - Camera service started : dss dss1 1
+2024-09-09 15:24:22,377 - CameraService_dss_dss1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:24:22,377 - CameraService_dss_dss1_1 - DEBUG - loading model inside CameraService
+2024-09-09 15:24:22,377 - CameraService_dss_dss1_1 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:24:22,481 - CameraService_tr_tr1_0 - DEBUG - Camera service started : tr tr1 0
+2024-09-09 15:24:22,481 - CameraService_dss_dss1_1 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam2
+2024-09-09 15:25:21,873 - CameraService_dss_dss1_0 - DEBUG - Camera service started : dss dss1 0
+2024-09-09 15:25:21,874 - CameraService_dss_dss1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:25:21,900 - CameraService_dss_dss1_0 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:25:22,013 - CameraService_dss_dss1_1 - DEBUG - Camera service started : dss dss1 1
+2024-09-09 15:25:22,013 - CameraService_dss_dss1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:25:22,014 - CameraService_dss_dss1_1 - DEBUG - loading model inside CameraService
+2024-09-09 15:25:22,014 - CameraService_dss_dss1_1 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:25:22,117 - CameraService_tr_tr1_0 - DEBUG - Camera service started : tr tr1 0
+2024-09-09 15:25:22,117 - CameraService_dss_dss1_1 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam2
+2024-09-09 15:25:22,118 - CameraService_tr_tr1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:25:22,118 - CameraService_tr_tr1_0 - DEBUG - [GPU]Loading tr weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\iotr_model.pt
+2024-09-09 15:25:22,247 - CameraService_tr_tr1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:25:27,962 - DetectionView-tr - INFO - demo enabled - tr1
+2024-09-09 15:25:27,963 - CameraService_tr_tr1_0 - INFO - Demo signal received: device_type='tr' target='tr1'
+2024-09-09 15:25:48,795 - CameraService_dss_dss1_0 - DEBUG - Camera service started : dss dss1 0
+2024-09-09 15:25:48,795 - CameraService_dss_dss1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:25:48,811 - CameraService_dss_dss1_0 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:25:48,921 - CameraService_dss_dss1_1 - DEBUG - Camera service started : dss dss1 1
+2024-09-09 15:25:48,922 - CameraService_dss_dss1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:25:48,922 - CameraService_dss_dss1_1 - DEBUG - loading model inside CameraService
+2024-09-09 15:25:48,922 - CameraService_dss_dss1_1 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:25:49,026 - CameraService_tr_tr1_0 - DEBUG - Camera service started : tr tr1 0
+2024-09-09 15:25:49,026 - CameraService_dss_dss1_1 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam2
+2024-09-09 15:25:49,026 - CameraService_tr_tr1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:25:49,027 - CameraService_tr_tr1_0 - DEBUG - [GPU]Loading tr weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\iotr_model.pt
+2024-09-09 15:25:49,152 - CameraService_tr_tr1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:25:52,994 - DetectionView-dss - INFO - demo enabled - dss1
+2024-09-09 15:25:52,995 - CameraService_dss_dss1_0 - INFO - Demo signal received: device_type='dss' target='dss1'
+2024-09-09 15:25:53,011 - CameraService_dss_dss1_1 - INFO - Demo signal received: device_type='dss' target='dss1'
+2024-09-09 15:25:54,058 - CameraService_dss_dss1_0 - INFO - Detection start condition met: 13 active objects detected
+2024-09-09 15:25:54,058 - CameraService_dss_dss1_0 - INFO - [dss1][0]Detection started at 1725863154.0566452
+2024-09-09 15:25:54,059 - CameraService_dss_dss1_0 - INFO - Executing run_ext for the first time in this detection period
+2024-09-09 15:25:54,059 - CameraService_dss_dss1_0 - INFO - Running external detection logic
+2024-09-09 15:25:55,873 - CameraService_dss_dss1_1 - INFO - Detection start condition met: 10 active objects detected
+2024-09-09 15:25:55,873 - CameraService_dss_dss1_1 - INFO - [dss1][1]Detection started at 1725863155.8722928
+2024-09-09 15:25:55,874 - CameraService_dss_dss1_1 - INFO - Executing run_ext for the first time in this detection period
+2024-09-09 15:25:55,874 - CameraService_dss_dss1_1 - INFO - Running external detection logic
+2024-09-09 15:26:33,302 - CameraService_dss_dss1_0 - DEBUG - Camera service started : dss dss1 0
+2024-09-09 15:26:33,302 - CameraService_dss_dss1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:26:33,315 - CameraService_dss_dss1_0 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:26:33,425 - CameraService_dss_dss1_1 - DEBUG - Camera service started : dss dss1 1
+2024-09-09 15:26:33,426 - CameraService_dss_dss1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:26:33,426 - CameraService_dss_dss1_1 - DEBUG - loading model inside CameraService
+2024-09-09 15:26:33,426 - CameraService_dss_dss1_1 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:26:33,527 - CameraService_tr_tr1_0 - DEBUG - Camera service started : tr tr1 0
+2024-09-09 15:26:33,527 - CameraService_dss_dss1_1 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam2
+2024-09-09 15:26:33,528 - CameraService_tr_tr1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:26:33,528 - CameraService_tr_tr1_0 - DEBUG - [GPU]Loading tr weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\iotr_model.pt
+2024-09-09 15:26:33,660 - CameraService_tr_tr1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:26:43,680 - DetectionView-tr - INFO - demo enabled - tr1
+2024-09-09 15:26:43,681 - CameraService_tr_tr1_0 - INFO - Demo signal received: device_type='tr' target='tr1'
+2024-09-09 15:26:55,722 - CameraService_tr_tr1_0 - INFO - Demo mode completed
+2024-09-09 15:29:19,908 - DetectionView-tr - INFO - demo enabled - tr1
+2024-09-09 15:29:19,909 - CameraService_tr_tr1_0 - INFO - Demo signal received: device_type='tr' target='tr1'
+2024-09-09 15:29:31,916 - CameraService_tr_tr1_0 - INFO - Demo mode completed
+2024-09-09 15:30:16,929 - CameraService_dss_dss1_0 - DEBUG - Camera service started : dss dss1 0
+2024-09-09 15:30:16,930 - CameraService_dss_dss1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:30:16,943 - CameraService_dss_dss1_0 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:30:17,053 - CameraService_dss_dss1_1 - DEBUG - Camera service started : dss dss1 1
+2024-09-09 15:30:17,053 - CameraService_dss_dss1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:30:17,053 - CameraService_dss_dss1_1 - DEBUG - loading model inside CameraService
+2024-09-09 15:30:17,054 - CameraService_dss_dss1_1 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:30:17,160 - CameraService_tr_tr1_0 - DEBUG - Camera service started : tr tr1 0
+2024-09-09 15:30:17,160 - CameraService_dss_dss1_1 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam2
+2024-09-09 15:30:17,161 - CameraService_tr_tr1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:30:17,161 - CameraService_tr_tr1_0 - DEBUG - [GPU]Loading tr weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\iotr_model.pt
+2024-09-09 15:30:17,288 - CameraService_tr_tr1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:30:31,670 - DetectionView-tr - INFO - demo enabled - tr1
+2024-09-09 15:30:31,671 - CameraService_tr_tr1_0 - INFO - Demo signal received: device_type='tr' target='tr1'
+2024-09-09 15:30:50,230 - CameraService_tr_tr1_0 - INFO - Demo mode completed
+2024-09-09 15:31:04,704 - DetectionView-tr - INFO - demo enabled - tr1
+2024-09-09 15:31:04,704 - CameraService_tr_tr1_0 - INFO - Demo signal received: device_type='tr' target='tr1'
+2024-09-09 15:31:22,900 - CameraService_tr_tr1_0 - INFO - Demo mode completed
+2024-09-09 15:33:11,364 - CameraService_dss_dss1_0 - DEBUG - Camera service started : dss dss1 0
+2024-09-09 15:33:11,364 - CameraService_dss_dss1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:33:11,378 - CameraService_dss_dss1_0 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:33:11,492 - CameraService_dss_dss1_1 - DEBUG - Camera service started : dss dss1 1
+2024-09-09 15:33:11,493 - CameraService_dss_dss1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:33:11,493 - CameraService_dss_dss1_1 - DEBUG - loading model inside CameraService
+2024-09-09 15:33:11,493 - CameraService_dss_dss1_1 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:33:11,594 - CameraService_tr_tr1_0 - DEBUG - Camera service started : tr tr1 0
+2024-09-09 15:33:11,594 - CameraService_dss_dss1_1 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam2
+2024-09-09 15:33:11,594 - CameraService_tr_tr1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:33:11,595 - CameraService_tr_tr1_0 - DEBUG - [GPU]Loading tr weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\iotr_model.pt
+2024-09-09 15:33:11,718 - CameraService_tr_tr1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:33:24,385 - DetectionView-tr - INFO - demo enabled - tr1
+2024-09-09 15:33:24,386 - CameraService_tr_tr1_0 - INFO - Demo signal received: device_type='tr' target='tr1'
+2024-09-09 15:33:36,384 - CameraService_tr_tr1_0 - INFO - Demo mode completed
+2024-09-09 15:36:19,744 - CameraService_dss_dss1_0 - DEBUG - Camera service started : dss dss1 0
+2024-09-09 15:36:19,744 - CameraService_dss_dss1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:36:19,760 - CameraService_dss_dss1_0 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:36:19,871 - CameraService_dss_dss1_1 - DEBUG - Camera service started : dss dss1 1
+2024-09-09 15:36:19,871 - CameraService_dss_dss1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:36:19,871 - CameraService_dss_dss1_1 - DEBUG - loading model inside CameraService
+2024-09-09 15:36:19,871 - CameraService_dss_dss1_1 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:36:19,976 - CameraService_tr_tr1_0 - DEBUG - Camera service started : tr tr1 0
+2024-09-09 15:36:19,976 - CameraService_dss_dss1_1 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam2
+2024-09-09 15:36:19,977 - CameraService_tr_tr1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:36:19,977 - CameraService_tr_tr1_0 - DEBUG - [GPU]Loading tr weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\iotr_model.pt
+2024-09-09 15:36:20,100 - CameraService_tr_tr1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:36:26,781 - DetectionView-dss - INFO - demo enabled - dss1
+2024-09-09 15:36:26,782 - CameraService_dss_dss1_0 - INFO - Demo signal received: device_type='dss' target='dss1'
+2024-09-09 15:36:26,790 - CameraService_dss_dss1_1 - INFO - Demo signal received: device_type='dss' target='dss1'
+2024-09-09 15:37:52,079 - CameraService_dss_dss1_0 - DEBUG - Camera service started : dss dss1 0
+2024-09-09 15:37:52,080 - CameraService_dss_dss1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:37:52,098 - CameraService_dss_dss1_0 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:37:52,212 - CameraService_dss_dss1_1 - DEBUG - Camera service started : dss dss1 1
+2024-09-09 15:37:52,212 - CameraService_dss_dss1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:37:52,212 - CameraService_dss_dss1_1 - DEBUG - loading model inside CameraService
+2024-09-09 15:37:52,213 - CameraService_dss_dss1_1 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:37:52,320 - CameraService_tr_tr1_0 - DEBUG - Camera service started : tr tr1 0
+2024-09-09 15:37:52,320 - CameraService_dss_dss1_1 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam2
+2024-09-09 15:37:52,320 - CameraService_tr_tr1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:37:52,320 - CameraService_tr_tr1_0 - DEBUG - [GPU]Loading tr weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\iotr_model.pt
+2024-09-09 15:37:52,443 - CameraService_tr_tr1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:37:58,641 - DetectionView-tr - INFO - demo enabled - tr1
+2024-09-09 15:37:58,641 - CameraService_tr_tr1_0 - INFO - Demo signal received: device_type='tr' target='tr1'
+2024-09-09 15:38:19,914 - DetectionView-tr - INFO - demo enabled - tr1
+2024-09-09 15:38:19,915 - CameraService_tr_tr1_0 - INFO - Demo signal received: device_type='tr' target='tr1'
+2024-09-09 15:38:28,756 - CameraService_tr_tr1_0 - INFO - Demo mode completed
+2024-09-09 15:38:29,354 - DetectionView-tr - INFO - demo enabled - tr1
+2024-09-09 15:38:29,355 - CameraService_tr_tr1_0 - INFO - Demo signal received: device_type='tr' target='tr1'
+2024-09-09 15:39:03,980 - CameraService_dss_dss1_0 - DEBUG - Camera service started : dss dss1 0
+2024-09-09 15:39:03,980 - CameraService_dss_dss1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:39:03,995 - CameraService_dss_dss1_0 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:39:04,106 - CameraService_dss_dss1_1 - DEBUG - Camera service started : dss dss1 1
+2024-09-09 15:39:04,106 - CameraService_dss_dss1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:39:04,107 - CameraService_dss_dss1_1 - DEBUG - loading model inside CameraService
+2024-09-09 15:39:04,107 - CameraService_dss_dss1_1 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:39:04,211 - CameraService_tr_tr1_0 - DEBUG - Camera service started : tr tr1 0
+2024-09-09 15:39:04,211 - CameraService_dss_dss1_1 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam2
+2024-09-09 15:39:04,212 - CameraService_tr_tr1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:39:04,212 - CameraService_tr_tr1_0 - DEBUG - [GPU]Loading tr weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\iotr_model.pt
+2024-09-09 15:39:04,336 - CameraService_tr_tr1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:41:14,944 - CameraService_dss_dss1_0 - DEBUG - Camera service started : dss dss1 0
+2024-09-09 15:41:14,944 - CameraService_dss_dss1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:41:14,960 - CameraService_dss_dss1_0 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:41:15,072 - CameraService_dss_dss1_1 - DEBUG - Camera service started : dss dss1 1
+2024-09-09 15:41:15,072 - CameraService_dss_dss1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:41:15,072 - CameraService_dss_dss1_1 - DEBUG - loading model inside CameraService
+2024-09-09 15:41:15,072 - CameraService_dss_dss1_1 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:41:15,176 - CameraService_tr_tr1_0 - DEBUG - Camera service started : tr tr1 0
+2024-09-09 15:41:15,176 - CameraService_dss_dss1_1 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam2
+2024-09-09 15:41:15,176 - CameraService_tr_tr1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:41:15,176 - CameraService_tr_tr1_0 - DEBUG - [GPU]Loading tr weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\iotr_model.pt
+2024-09-09 15:41:15,303 - CameraService_tr_tr1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:41:26,867 - DetectionView-tr - INFO - demo enabled - tr1
+2024-09-09 15:41:26,868 - CameraService_tr_tr1_0 - INFO - Demo signal received: device_type='tr' target='tr1'
+2024-09-09 15:41:38,901 - CameraService_tr_tr1_0 - INFO - Demo mode completed
+2024-09-09 15:41:48,458 - CameraService_dss_dss1_0 - DEBUG - Camera service started : dss dss1 0
+2024-09-09 15:41:48,459 - CameraService_dss_dss1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:41:48,471 - CameraService_dss_dss1_0 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:41:48,581 - CameraService_dss_dss1_1 - DEBUG - Camera service started : dss dss1 1
+2024-09-09 15:41:48,582 - CameraService_dss_dss1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:41:48,582 - CameraService_dss_dss1_1 - DEBUG - loading model inside CameraService
+2024-09-09 15:41:48,582 - CameraService_dss_dss1_1 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:41:48,684 - CameraService_tr_tr1_0 - DEBUG - Camera service started : tr tr1 0
+2024-09-09 15:41:48,684 - CameraService_dss_dss1_1 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam2
+2024-09-09 15:41:48,684 - CameraService_tr_tr1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:41:48,685 - CameraService_tr_tr1_0 - DEBUG - [GPU]Loading tr weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\iotr_model.pt
+2024-09-09 15:41:48,810 - CameraService_tr_tr1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:41:54,191 - DetectionView-tr - INFO - demo enabled - tr1
+2024-09-09 15:41:54,192 - CameraService_tr_tr1_0 - INFO - Demo signal received: device_type='tr' target='tr1'
+2024-09-09 15:42:10,235 - CameraService_tr_tr1_0 - INFO - Demo mode completed
+2024-09-09 15:42:12,168 - DetectionView-dss - INFO - demo enabled - dss1
+2024-09-09 15:42:12,170 - CameraService_dss_dss1_0 - INFO - Demo signal received: device_type='dss' target='dss1'
+2024-09-09 15:42:12,178 - CameraService_dss_dss1_1 - INFO - Demo signal received: device_type='dss' target='dss1'
+2024-09-09 15:42:12,223 - CameraService_dss_dss1_1 - INFO - Detection start condition met: 13 active objects detected
+2024-09-09 15:42:12,223 - CameraService_dss_dss1_1 - INFO - [dss1][1]Detection started at 1725864132.2191336
+2024-09-09 15:42:12,224 - CameraService_dss_dss1_1 - INFO - Executing run_ext for the first time in this detection period
+2024-09-09 15:42:12,225 - CameraService_dss_dss1_1 - INFO - Running external detection logic
+2024-09-09 15:42:12,251 - CameraService_dss_dss1_0 - INFO - Detection start condition met: 12 active objects detected
+2024-09-09 15:42:12,252 - CameraService_dss_dss1_0 - INFO - [dss1][0]Detection started at 1725864132.2471383
+2024-09-09 15:42:12,253 - CameraService_dss_dss1_0 - INFO - Executing run_ext for the first time in this detection period
+2024-09-09 15:42:12,253 - CameraService_dss_dss1_0 - INFO - Running external detection logic
+2024-09-09 15:42:33,956 - CameraService_dss_dss1_0 - DEBUG - Camera service started : dss dss1 0
+2024-09-09 15:42:33,957 - CameraService_dss_dss1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:42:33,971 - CameraService_dss_dss1_0 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:42:34,086 - CameraService_dss_dss1_1 - DEBUG - Camera service started : dss dss1 1
+2024-09-09 15:42:34,086 - CameraService_dss_dss1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:42:34,086 - CameraService_dss_dss1_1 - DEBUG - loading model inside CameraService
+2024-09-09 15:42:34,086 - CameraService_dss_dss1_1 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:42:34,189 - CameraService_tr_tr1_0 - DEBUG - Camera service started : tr tr1 0
+2024-09-09 15:42:34,190 - CameraService_dss_dss1_1 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam2
+2024-09-09 15:42:34,190 - CameraService_tr_tr1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:42:34,190 - CameraService_tr_tr1_0 - DEBUG - [GPU]Loading tr weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\iotr_model.pt
+2024-09-09 15:42:34,316 - CameraService_tr_tr1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:43:35,351 - CameraService_dss_dss1_0 - DEBUG - Camera service started : dss dss1 0
+2024-09-09 15:43:35,351 - CameraService_dss_dss1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:43:35,377 - CameraService_dss_dss1_0 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:43:35,488 - CameraService_dss_dss1_1 - DEBUG - Camera service started : dss dss1 1
+2024-09-09 15:43:35,488 - CameraService_dss_dss1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:43:35,488 - CameraService_dss_dss1_1 - DEBUG - loading model inside CameraService
+2024-09-09 15:43:35,488 - CameraService_dss_dss1_1 - DEBUG - [GPU]Loading dss weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\dss_model.pt
+2024-09-09 15:43:35,590 - CameraService_tr_tr1_0 - DEBUG - Camera service started : tr tr1 0
+2024-09-09 15:43:35,590 - CameraService_dss_dss1_1 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam2
+2024-09-09 15:43:35,590 - CameraService_tr_tr1_0 - DEBUG - loading model inside CameraService
+2024-09-09 15:43:35,591 - CameraService_tr_tr1_0 - DEBUG - [GPU]Loading tr weights from C:\Users\chanh\Desktop\iodev_tempclient\iodev_tempclient\weights\iotr_model.pt
+2024-09-09 15:43:35,718 - CameraService_tr_tr1_0 - DEBUG - Capturing camera stream from rtsp://dss0.local:8554/cam1
+2024-09-09 15:43:39,459 - DetectionView-tr - INFO - demo enabled - tr1
+2024-09-09 15:43:39,460 - CameraService_tr_tr1_0 - INFO - Demo signal received: device_type='tr' target='tr1'
+2024-09-09 15:43:43,669 - DetectionView-dss - INFO - demo enabled - dss1
+2024-09-09 15:43:43,670 - CameraService_dss_dss1_0 - INFO - Demo signal received: device_type='dss' target='dss1'
+2024-09-09 15:43:43,676 - CameraService_dss_dss1_1 - INFO - Demo signal received: device_type='dss' target='dss1'
+2024-09-09 15:43:43,742 - CameraService_dss_dss1_0 - INFO - Detection start condition met: 9 active objects detected
+2024-09-09 15:43:43,742 - CameraService_dss_dss1_0 - INFO - [dss1][0]Detection started at 1725864223.7418208
+2024-09-09 15:43:43,743 - CameraService_dss_dss1_0 - INFO - Executing run_ext for the first time in this detection period
+2024-09-09 15:43:43,744 - CameraService_dss_dss1_0 - INFO - Running external detection logic
+2024-09-09 15:43:43,773 - CameraService_dss_dss1_1 - INFO - Detection start condition met: 11 active objects detected
+2024-09-09 15:43:43,773 - CameraService_dss_dss1_1 - INFO - [dss1][1]Detection started at 1725864223.7718241
+2024-09-09 15:43:43,774 - CameraService_dss_dss1_1 - INFO - Executing run_ext for the first time in this detection period
+2024-09-09 15:43:43,775 - CameraService_dss_dss1_1 - INFO - Running external detection logic
+2024-09-09 15:43:48,801 - CameraService_dss_dss1_0 - INFO - Detection ended: Maximum duration of 5.0 seconds reached
+2024-09-09 15:43:48,801 - CameraService_dss_dss1_0 - INFO - Detection ended in 5.1 seconds.
+2024-09-09 15:43:48,826 - CameraService_dss_dss1_1 - INFO - Detection ended: Maximum duration of 5.0 seconds reached
+2024-09-09 15:43:48,826 - CameraService_dss_dss1_1 - INFO - Detection ended in 5.1 seconds.
+2024-09-09 15:43:53,811 - CameraService_dss_dss1_0 - INFO - Detection start condition met: 8 active objects detected
+2024-09-09 15:43:53,812 - CameraService_dss_dss1_0 - INFO - [dss1][0]Detection started at 1725864233.8077478
+2024-09-09 15:43:53,813 - CameraService_dss_dss1_0 - INFO - Executing run_ext for the first time in this detection period
+2024-09-09 15:43:53,813 - CameraService_dss_dss1_0 - INFO - Running external detection logic
+2024-09-09 15:43:53,830 - CameraService_dss_dss1_1 - INFO - Detection start condition met: 12 active objects detected
+2024-09-09 15:43:53,831 - CameraService_dss_dss1_1 - INFO - [dss1][1]Detection started at 1725864233.8267446
+2024-09-09 15:43:53,832 - CameraService_dss_dss1_1 - INFO - Executing run_ext for the first time in this detection period
+2024-09-09 15:43:53,832 - CameraService_dss_dss1_1 - INFO - Running external detection logic
+2024-09-09 15:43:55,675 - CameraService_dss_dss1_1 - INFO - Demo mode completed
+2024-09-09 15:43:55,691 - CameraService_dss_dss1_0 - INFO - Demo mode completed
+2024-09-09 15:43:56,898 - CameraService_tr_tr1_0 - INFO - Demo mode completed
+2024-09-09 15:43:58,833 - CameraService_dss_dss1_0 - INFO - Detection ended: Maximum duration of 5.0 seconds reached
+2024-09-09 15:43:58,834 - CameraService_dss_dss1_0 - INFO - Detection ended in 5.0 seconds.
+2024-09-09 15:43:58,860 - DetectionView-tr - INFO - demo enabled - tr1
+2024-09-09 15:43:58,861 - CameraService_tr_tr1_0 - INFO - Demo signal received: device_type='tr' target='tr1'
+2024-09-09 15:43:58,886 - CameraService_dss_dss1_1 - INFO - Detection ended: Maximum duration of 5.0 seconds reached
+2024-09-09 15:43:58,886 - CameraService_dss_dss1_1 - INFO - Detection ended in 5.1 seconds.
+2024-09-09 15:44:10,893 - CameraService_tr_tr1_0 - INFO - Demo mode completed
+2024-09-09 15:44:13,282 - DetectionView-tr - INFO - demo enabled - tr1
+2024-09-09 15:44:13,283 - CameraService_tr_tr1_0 - INFO - Demo signal received: device_type='tr' target='tr1'
+2024-09-09 15:44:25,294 - CameraService_tr_tr1_0 - INFO - Demo mode completed
+2024-09-09 15:44:26,321 - DetectionView-tr - INFO - demo enabled - tr1
+2024-09-09 15:44:26,323 - CameraService_tr_tr1_0 - INFO - Demo signal received: device_type='tr' target='tr1'
+2024-09-09 15:44:38,371 - CameraService_tr_tr1_0 - INFO - Demo mode completed
+2024-09-09 15:50:36,595 - DetectionView-dss - INFO - demo enabled - dss1
+2024-09-09 15:50:36,597 - CameraService_dss_dss1_0 - INFO - Demo signal received: device_type='dss' target='dss1'
+2024-09-09 15:50:36,610 - CameraService_dss_dss1_1 - INFO - Demo signal received: device_type='dss' target='dss1'
+2024-09-09 15:50:36,631 - CameraService_dss_dss1_0 - INFO - Detection start condition met: 9 active objects detected
+2024-09-09 15:50:36,631 - CameraService_dss_dss1_0 - INFO - [dss1][0]Detection started at 1725864636.629811
+2024-09-09 15:50:36,633 - CameraService_dss_dss1_0 - INFO - Executing run_ext for the first time in this detection period
+2024-09-09 15:50:36,633 - CameraService_dss_dss1_0 - INFO - Running external detection logic
+2024-09-09 15:50:36,695 - CameraService_dss_dss1_1 - INFO - Detection start condition met: 14 active objects detected
+2024-09-09 15:50:36,695 - CameraService_dss_dss1_1 - INFO - [dss1][1]Detection started at 1725864636.6862748
+2024-09-09 15:50:36,698 - CameraService_dss_dss1_1 - INFO - Executing run_ext for the first time in this detection period
+2024-09-09 15:50:36,698 - CameraService_dss_dss1_1 - INFO - Running external detection logic
+2024-09-09 15:50:41,708 - CameraService_dss_dss1_0 - INFO - Detection ended: Maximum duration of 5.0 seconds reached
+2024-09-09 15:50:41,708 - CameraService_dss_dss1_0 - INFO - Detection ended in 5.1 seconds.
+2024-09-09 15:50:41,763 - CameraService_dss_dss1_1 - INFO - Detection ended: Maximum duration of 5.0 seconds reached
+2024-09-09 15:50:41,763 - CameraService_dss_dss1_1 - INFO - Detection ended in 5.1 seconds.
+2024-09-09 15:50:43,894 - DetectionView-tr - INFO - demo enabled - tr1
+2024-09-09 15:50:43,897 - CameraService_tr_tr1_0 - INFO - Demo signal received: device_type='tr' target='tr1'
+2024-09-09 15:50:46,721 - CameraService_dss_dss1_0 - INFO - Detection start condition met: 9 active objects detected
+2024-09-09 15:50:46,721 - CameraService_dss_dss1_0 - INFO - [dss1][0]Detection started at 1725864646.7163794
+2024-09-09 15:50:46,724 - CameraService_dss_dss1_0 - INFO - Executing run_ext for the first time in this detection period
+2024-09-09 15:50:46,724 - CameraService_dss_dss1_0 - INFO - Running external detection logic
+2024-09-09 15:50:46,811 - CameraService_dss_dss1_1 - INFO - Detection start condition met: 14 active objects detected
+2024-09-09 15:50:46,812 - CameraService_dss_dss1_1 - INFO - [dss1][1]Detection started at 1725864646.8079464
+2024-09-09 15:50:46,814 - CameraService_dss_dss1_1 - INFO - Executing run_ext for the first time in this detection period
+2024-09-09 15:50:46,814 - CameraService_dss_dss1_1 - INFO - Running external detection logic
+2024-09-09 15:50:48,606 - CameraService_dss_dss1_0 - INFO - Demo mode completed
+2024-09-09 15:50:48,667 - CameraService_dss_dss1_1 - INFO - Demo mode completed
+2024-09-09 15:50:51,791 - CameraService_dss_dss1_0 - INFO - Detection ended: Maximum duration of 5.0 seconds reached
+2024-09-09 15:50:51,791 - CameraService_dss_dss1_0 - INFO - Detection ended in 5.1 seconds.
+2024-09-09 15:50:51,812 - CameraService_dss_dss1_1 - INFO - Detection ended: Maximum duration of 5.0 seconds reached
+2024-09-09 15:50:51,813 - CameraService_dss_dss1_1 - INFO - Detection ended in 5.0 seconds.

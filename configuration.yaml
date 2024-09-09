@@ -1,0 +1,119 @@
+detection:
+  verbose: false
+  model_dir: "weights"
+  dss:
+    weights: "dss_model.pt"
+    min_time_between_detections: 5  # minimum time between detections in seconds
+    min_object_cnt: 3
+    show_valid_detections: true
+    show_invalid_detections: false
+    min_object_size_percent: 0.005  
+    max_object_size_percent: 0.05
+    min_aspect_ratio: 0.5
+    max_aspect_ratio: 3.0
+    movement_threshold: 5  # object movement threshold in pixels
+    static_frame_threshold: 5  # frames
+    max_detection_duration: 5  # seconds
+    frame_buffer_size: 5
+    min_active_frames: 5
+    max_track_history: 30
+    similarity_tol: 2 # lower means more strict
+    show_bbox: true
+    bbox_line_width: 3
+    confidence_threshold: 0.4
+    iou_threshold: 0.45
+    remove_similar_objects: true
+
+  tr:
+    weights: "iotr_model.pt"
+    min_time_between_detections: 5  # minimum time between detections in seconds
+    min_object_cnt: 3
+    show_valid_detections: true
+    show_invalid_detections: false
+    min_object_size_percent: 0.01
+    max_object_size_percent: 0.1
+    min_aspect_ratio: 0.5
+    max_aspect_ratio: 3.0
+    movement_threshold: 5  # object movement threshold in pixels
+    static_frame_threshold: 5  # frames
+    max_detection_duration: 5  # seconds
+    frame_buffer_size: 5
+    min_active_frames: 5
+    max_track_history: 30
+    similarity_tol: 2 # lower means more strict
+    show_bbox: true
+    bbox_line_width: 3
+    confidence_threshold: 0.6
+    iou_threshold: 0.45
+    remove_similar_objects: true
+
+demo:
+  dss:
+    n_images: 15
+    max_size: 65
+    min_size: 40
+    move_displacement: -3
+  tr:
+    n_images: 10
+    max_size: 100
+    min_size: 60
+    move_displacement: -3
+
+  
+display:
+  img_scale: 0.6
+
+log:
+  level: "DEBUG"
+  path: "logs" 
+
+mqtt:
+  host: "localhost"
+  port: 1883
+  qos: 0
+  keepalive: 60
+  client_id: "tempclient"
+
+devices:
+  dss1:
+    device_type: "dss"
+    cams:
+      - rtsp://dss0.local:8554/cam1
+      - rtsp://dss0.local:8554/cam2
+
+  dss2:
+    device_type: "dss"
+    cams:
+      - rtsp://dss0.local:8554/cam2
+      - rtsp://dss0.local:8554/cam1
+
+  dss3:
+    device_type: "dss"
+    cams:
+      - rtsp://dss0.local:8554/cam1
+      - rtsp://dss0.local:8554/cam2
+
+  dss4:
+    device_type: "dss"
+    cams:
+      - rtsp://dss0.local:8554/cam1
+      - rtsp://dss0.local:8554/cam2
+
+  tr1:
+    device_type: "tr"
+    cams:
+      - rtsp://dss0.local:8554/cam1
+  tr2:
+    device_type: "tr"
+    cams:
+      - rtsp://dss0.local:8554/cam1
+
+  tr3:
+    device_type: "tr"
+    cams:
+      - rtsp://dss0.local:8554/cam1
+
+  tr4:
+    device_type: "tr"
+    cams:
+      - rtsp://dss0.local:8554/cam1
